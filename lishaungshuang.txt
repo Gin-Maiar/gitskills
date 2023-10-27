@@ -1,1 +1,2 @@
 not today
+Greating a new branch is quick!
